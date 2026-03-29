@@ -1,8 +1,8 @@
 # Ex.No.10
 ## Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date: 05/11/25
-## Reg. No. 212223040164
+## NAME : MOHAMMED HAZIL H
+## Reg. No. 212223020017
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
